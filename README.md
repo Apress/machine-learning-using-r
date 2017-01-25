@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Machine Learning Using R*](http://www.apress.com/9781484223338) by Ramasubramanian, Karthik (Apress, 2017).
+This repository accompanies [*Machine Learning Using R*](http://www.apress.com/9781484223338) by Karthik Ramasubramanian and Abhishek Singh (Apress, 2017).
 
 ![Cover image](9781484223338.jpg)
 
